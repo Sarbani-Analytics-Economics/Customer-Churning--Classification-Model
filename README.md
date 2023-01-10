@@ -22,8 +22,4 @@ Libraries used:
 
 Final Result:
 ![image](https://user-images.githubusercontent.com/57029230/211523140-b0991ede-86de-452e-acf9-cb35a4b462b6.png)
-array([[5584,  197],T (actual)
-       [ 778,  537]]F
-          T      F (predicted)
-          
- Accuracy: 86%         
+Accuracy: 86%         
